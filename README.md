@@ -1,1 +1,1 @@
-# Human-Activity-Recognition-CNN-RNN
+# Human-Activity-Recognition(HAR) Video Classification Using CNN-RNN Architecture
