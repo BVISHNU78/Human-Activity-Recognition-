@@ -13,3 +13,6 @@ The CNN processes the spatial information in each frame and converts it into a h
 After the CNN extracts features from the frames, the features are passed into the RNN. The RNN learns how these features evolve over time and captures long-term dependencies between them.
 
 LSTM (Long Short-Term Memory) or GRU (Gated Recurrent Units) are commonly used because they are effective at handling long sequences and mitigating the vanishing gradient problem.
+![Screenshot 2024-09-09 091804](https://github.com/user-attachments/assets/ded61c84-1b45-48d5-9a95-230899c62772)
+![Screenshot 2024-09-09 085343](https://github.com/user-attachments/assets/746a4744-c7a6-4580-a42f-fa5c4c483f32)
+![Screenshot 2024-09-09 132004](https://github.com/user-attachments/assets/c62baca0-6e6a-4e21-8da6-21ab0cbc9140)
